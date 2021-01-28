@@ -1,5 +1,5 @@
 {
-    "name": "NoFecebook",
+    "name": "NoFacebook",
     "version": "1.0",
     "description": "Disable Facebook news feed",
     "content_scripts": [
